@@ -82,7 +82,7 @@ dependencies = [
     "rich>=13.0.0",
     
     # Quantum backends (core)
-    "cirq>=1.3.0",
+    "cirq>=1.6.1",
     "qiskit>=1.0.0",
     # Note: qiskit-aer moved to optional deps due to Windows compilation requirements
 ]
